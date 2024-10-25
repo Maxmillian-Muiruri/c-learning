@@ -1,0 +1,14 @@
+C:\Dev\leanrning\bin\Debug\net8.0\leanrning.exe
+C:\Dev\leanrning\bin\Debug\net8.0\leanrning.deps.json
+C:\Dev\leanrning\bin\Debug\net8.0\leanrning.runtimeconfig.json
+C:\Dev\leanrning\bin\Debug\net8.0\leanrning.dll
+C:\Dev\leanrning\bin\Debug\net8.0\leanrning.pdb
+C:\Dev\leanrning\obj\Debug\net8.0\leanrning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\leanrning\obj\Debug\net8.0\leanrning.AssemblyInfoInputs.cache
+C:\Dev\leanrning\obj\Debug\net8.0\leanrning.AssemblyInfo.cs
+C:\Dev\leanrning\obj\Debug\net8.0\leanrning.csproj.CoreCompileInputs.cache
+C:\Dev\leanrning\obj\Debug\net8.0\leanrning.dll
+C:\Dev\leanrning\obj\Debug\net8.0\refint\leanrning.dll
+C:\Dev\leanrning\obj\Debug\net8.0\leanrning.pdb
+C:\Dev\leanrning\obj\Debug\net8.0\leanrning.genruntimeconfig.cache
+C:\Dev\leanrning\obj\Debug\net8.0\ref\leanrning.dll
